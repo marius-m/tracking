@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.adform.tracking.sdk</groupId>
+  <artifactId>tracking-sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141229075417</lastUpdated>
+  </versioning>
+</metadata>
